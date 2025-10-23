@@ -1,0 +1,34 @@
+{
+  "templates": [
+    {
+      "name": "Iran-v2ray-rules",
+      "about": "Enhanced v2ray/xray and clients routing rules with Iranian domains, security, and adblocking.",
+      "files": [
+        {
+          "name": "geoip.dat",
+          "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip.dat"
+        },
+        {
+          "name": "geosite.dat",
+          "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite.dat"
+        },
+        {
+          "name": "geoip-lite.dat",
+          "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip-lite.dat"
+        },
+        {
+          "name": "geosite-lite.dat",
+          "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite-lite.dat"
+        },
+        {
+          "name": "security-ip.dat",
+          "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/security-ip.dat"
+        },
+        {
+          "name": "security.dat",
+          "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/security.dat"
+        }
+      ]
+    }
+  ]
+}
