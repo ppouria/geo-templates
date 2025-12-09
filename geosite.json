@@ -143,5 +143,735 @@
         "www.phantom.app"
       ]
     }
+  ],
+    "ai": [
+    {
+      "name": "openai",
+      "category": "ai",
+      "domains": [
+        "openai.com",
+        "www.openai.com"
+      ]
+    },
+    {
+      "name": "chatgpt",
+      "category": "ai",
+      "domains": [
+        "chatgpt.com",
+        "www.chatgpt.com",
+        "chat.openai.com",
+        "chat.com"
+      ]
+    },
+    {
+      "name": "grok",
+      "category": "ai",
+      "domains": [
+        "grok.com",
+        "www.grok.com",
+        "x.ai"
+      ]
+    },
+    {
+      "name": "claude",
+      "category": "ai",
+      "domains": [
+        "claude.ai",
+        "www.claude.ai",
+        "anthropic.com",
+        "console.anthropic.com"
+      ]
+    },
+    {
+      "name": "gemini",
+      "category": "ai",
+      "domains": [
+        "gemini.google.com",
+        "gemini.google",
+        "ai.google"
+      ]
+    },
+    {
+      "name": "perplexity",
+      "category": "ai",
+      "domains": [
+        "perplexity.ai",
+        "www.perplexity.ai"
+      ]
+    },
+    {
+      "name": "microsoft_copilot",
+      "category": "ai",
+      "domains": [
+        "copilot.microsoft.com",
+        "copilot.cloud.microsoft",
+        "bing.com",
+        "bing.com/chat"
+      ]
+    },
+    {
+      "name": "midjourney",
+      "category": "ai",
+      "domains": [
+        "midjourney.com",
+        "www.midjourney.com",
+        "docs.midjourney.com"
+      ]
+    },
+    {
+      "name": "huggingface",
+      "category": "ai",
+      "domains": [
+        "huggingface.co",
+        "www.huggingface.co"
+      ]
+    },
+    {
+      "name": "character_ai",
+      "category": "ai",
+      "domains": [
+        "character.ai",
+        "www.character.ai"
+      ]
+    },
+    {
+      "name": "stability_ai",
+      "category": "ai",
+      "domains": [
+        "stability.ai",
+        "platform.stability.ai"
+      ]
+    },
+    {
+      "name": "runway",
+      "category": "ai",
+      "domains": [
+        "runwayml.com",
+        "www.runwayml.com"
+      ]
+    },
+    {
+      "name": "elevenlabs",
+      "category": "ai",
+      "domains": [
+        "elevenlabs.io",
+        "www.elevenlabs.io"
+      ]
+    },
+    {
+      "name": "phind",
+      "category": "ai",
+      "domains": [
+        "phind.com",
+        "www.phind.com"
+      ]
+    },
+    {
+      "name": "blackbox_ai",
+      "category": "ai",
+      "domains": [
+        "blackbox.ai",
+        "www.blackbox.ai",
+        "useblackbox.io",
+        "www.useblackbox.io"
+      ]
+    },
+    {
+      "name": "replit_ghostwriter",
+      "category": "ai",
+      "domains": [
+        "replit.com",
+        "www.replit.com"
+      ]
+    }
+  ],
+    "microsoft": [
+    {
+      "name": "microsoft_main",
+      "category": "microsoft",
+      "domains": [
+        "microsoft.com",
+        "www.microsoft.com"
+      ]
+    },
+    {
+      "name": "windows_update",
+      "category": "microsoft",
+      "domains": [
+        "windowsupdate.com",
+        "www.windowsupdate.com",
+        "windowsupdate.microsoft.com",
+        "update.microsoft.com",
+        "download.windowsupdate.com"
+      ]
+    },
+    {
+      "name": "microsoft_account",
+      "category": "microsoft",
+      "domains": [
+        "login.live.com",
+        "live.com",
+        "account.microsoft.com",
+        "login.microsoftonline.com",
+        "signup.live.com"
+      ]
+    },
+    {
+      "name": "outlook",
+      "category": "microsoft",
+      "domains": [
+        "outlook.com",
+        "www.outlook.com",
+        "outlook.office.com",
+        "mail.live.com",
+        "outlook.live.com"
+      ]
+    },
+    {
+      "name": "office",
+      "category": "microsoft",
+      "domains": [
+        "office.com",
+        "www.office.com",
+        "www.office365.com",
+        "office365.com"
+      ]
+    },
+    {
+      "name": "onedrive",
+      "category": "microsoft",
+      "domains": [
+        "onedrive.live.com",
+        "onedrive.com",
+        "1drv.ms",
+        "storage.live.com"
+      ]
+    },
+    {
+      "name": "sharepoint_online",
+      "category": "microsoft",
+      "domains": [
+        "sharepoint.com"
+      ]
+    },
+    {
+      "name": "teams",
+      "category": "microsoft",
+      "domains": [
+        "teams.microsoft.com"
+      ]
+    },
+    {
+      "name": "skype",
+      "category": "microsoft",
+      "domains": [
+        "skype.com",
+        "www.skype.com"
+      ]
+    },
+    {
+      "name": "onenote",
+      "category": "microsoft",
+      "domains": [
+        "onenote.com",
+        "www.onenote.com"
+      ]
+    },
+    {
+      "name": "microsoft_store",
+      "category": "microsoft",
+      "domains": [
+        "store.microsoft.com",
+        "apps.microsoft.com"
+      ]
+    },
+    {
+      "name": "xbox",
+      "category": "microsoft",
+      "domains": [
+        "xbox.com",
+        "www.xbox.com",
+        "xboxlive.com",
+        "xboxservices.com"
+      ]
+    },
+    {
+      "name": "msn",
+      "category": "microsoft",
+      "domains": [
+        "msn.com",
+        "www.msn.com"
+      ]
+    },
+    {
+      "name": "bing",
+      "category": "microsoft",
+      "domains": [
+        "bing.com",
+        "www.bing.com"
+      ]
+    },
+    {
+      "name": "azure_portal",
+      "category": "microsoft",
+      "domains": [
+        "azure.com",
+        "www.azure.com",
+        "portal.azure.com",
+        "management.azure.com"
+      ]
+    },
+    {
+      "name": "onedrive_business_sharepoint_tenants",
+      "category": "microsoft",
+      "domains": [
+        "sharepoint.com",
+        "sharepoint-df.com"
+      ]
+    },
+    {
+      "name": "microsoft_graph",
+      "category": "microsoft",
+      "domains": [
+        "graph.microsoft.com"
+      ]
+    }
+  ],
+    "music": [
+    {
+      "name": "spotify",
+      "category": "music",
+      "domains": [
+        "spotify.com",
+        "www.spotify.com",
+        "open.spotify.com",
+        "api.spotify.com"
+      ]
+    },
+    {
+      "name": "apple_music",
+      "category": "music",
+      "domains": [
+        "music.apple.com",
+        "itunes.apple.com",
+        "audio-ssl.itunes.apple.com"
+      ]
+    },
+    {
+      "name": "youtube_music",
+      "category": "music",
+      "domains": [
+        "music.youtube.com",
+        "youtu.be",
+        "youtube.com",
+        "www.youtube.com"
+      ]
+    },
+    {
+      "name": "soundcloud",
+      "category": "music",
+      "domains": [
+        "soundcloud.com",
+        "www.soundcloud.com",
+        "api.soundcloud.com"
+      ]
+    },
+    {
+      "name": "deezer",
+      "category": "music",
+      "domains": [
+        "deezer.com",
+        "www.deezer.com",
+        "api.deezer.com"
+      ]
+    },
+    {
+      "name": "tidal",
+      "category": "music",
+      "domains": [
+        "tidal.com",
+        "www.tidal.com",
+        "listen.tidal.com"
+      ]
+    },
+    {
+      "name": "amazon_music",
+      "category": "music",
+      "domains": [
+        "music.amazon.com",
+        "amazonmusic.com",
+        "www.amazonmusic.com"
+      ]
+    },
+    {
+      "name": "pandora",
+      "category": "music",
+      "domains": [
+        "pandora.com",
+        "www.pandora.com"
+      ]
+    },
+    {
+      "name": "anghami",
+      "category": "music",
+      "domains": [
+        "anghami.com",
+        "www.anghami.com"
+      ]
+    },
+    {
+      "name": "audiomack",
+      "category": "music",
+      "domains": [
+        "audiomack.com",
+        "www.audiomack.com"
+      ]
+    },
+    {
+      "name": "gaana",
+      "category": "music",
+      "domains": [
+        "gaana.com",
+        "www.gaana.com"
+      ]
+    },
+    {
+      "name": "jiosaavn",
+      "category": "music",
+      "domains": [
+        "jiosaavn.com",
+        "www.jiosaavn.com",
+        "saavn.com",
+        "www.saavn.com"
+      ]
+    },
+    {
+      "name": "wynk",
+      "category": "music",
+      "domains": [
+        "wynk.in",
+        "www.wynk.in"
+      ]
+    },
+    {
+      "name": "qq_music",
+      "category": "music",
+      "domains": [
+        "y.qq.com",
+        "music.qq.com"
+      ]
+    },
+    {
+      "name": "netease_cloud_music",
+      "category": "music",
+      "domains": [
+        "music.163.com"
+      ]
+    },
+    {
+      "name": "yandex_music",
+      "category": "music",
+      "domains": [
+        "music.yandex.com",
+        "music.yandex.ru",
+        "music.yandex.by",
+        "music.yandex.kz",
+        "music.yandex.ua"
+      ]
+    },
+    {
+      "name": "soundclick",
+      "category": "music",
+      "domains": [
+        "soundclick.com",
+        "www.soundclick.com"
+      ]
+    }
+  ],
+  "video": [
+    {
+      "name": "youtube",
+      "category": "video",
+      "domains": [
+        "youtube.com",
+        "www.youtube.com",
+        "m.youtube.com",
+        "youtu.be"
+      ]
+    },
+    {
+      "name": "youtube_tv",
+      "category": "video",
+      "domains": [
+        "tv.youtube.com"
+      ]
+    },
+    {
+      "name": "netflix",
+      "category": "video",
+      "domains": [
+        "netflix.com",
+        "www.netflix.com",
+        "api.netflix.com",
+        "nflxvideo.net",
+        "nflximg.net",
+        "nflxso.net"
+      ]
+    },
+    {
+      "name": "disney_plus",
+      "category": "video",
+      "domains": [
+        "disneyplus.com",
+        "www.disneyplus.com",
+        "dssott.com"
+      ]
+    },
+    {
+      "name": "amazon_prime_video",
+      "category": "video",
+      "domains": [
+        "primevideo.com",
+        "www.primevideo.com"
+      ]
+    },
+    {
+      "name": "hulu",
+      "category": "video",
+      "domains": [
+        "hulu.com",
+        "www.hulu.com"
+      ]
+    },
+    {
+      "name": "max_hbo",
+      "category": "video",
+      "domains": [
+        "max.com",
+        "www.max.com",
+        "play.hbomax.com"
+      ]
+    },
+    {
+      "name": "apple_tv_plus",
+      "category": "video",
+      "domains": [
+        "tv.apple.com",
+        "video.apple.com"
+      ]
+    },
+    {
+      "name": "paramount_plus",
+      "category": "video",
+      "domains": [
+        "paramountplus.com",
+        "www.paramountplus.com"
+      ]
+    },
+    {
+      "name": "peacock",
+      "category": "video",
+      "domains": [
+        "peacocktv.com",
+        "www.peacocktv.com"
+      ]
+    },
+    {
+      "name": "crunchyroll",
+      "category": "video",
+      "domains": [
+        "crunchyroll.com",
+        "www.crunchyroll.com"
+      ]
+    },
+    {
+      "name": "vimeo",
+      "category": "video",
+      "domains": [
+        "vimeo.com",
+        "www.vimeo.com",
+        "player.vimeo.com"
+      ]
+    },
+    {
+      "name": "dailymotion",
+      "category": "video",
+      "domains": [
+        "dailymotion.com",
+        "www.dailymotion.com",
+        "dai.ly",
+        "www.dai.ly"
+      ]
+    },
+    {
+      "name": "bilibili",
+      "category": "video",
+      "domains": [
+        "bilibili.com",
+        "www.bilibili.com",
+        "live.bilibili.com"
+      ]
+    }
+  ],
+  "game_stream": [
+    {
+      "name": "twitch",
+      "category": "game_stream",
+      "domains": [
+        "twitch.tv",
+        "www.twitch.tv",
+        "player.twitch.tv",
+        "static-cdn.jtvnw.net"
+      ]
+    },
+    {
+      "name": "kick",
+      "category": "game_stream",
+      "domains": [
+        "kick.com",
+        "www.kick.com"
+      ]
+    },
+    {
+      "name": "trovo",
+      "category": "game_stream",
+      "domains": [
+        "trovo.live",
+        "www.trovo.live"
+      ]
+    },
+    {
+      "name": "nimo_tv",
+      "category": "game_stream",
+      "domains": [
+        "nimo.tv",
+        "www.nimo.tv"
+      ]
+    },
+    {
+      "name": "huya",
+      "category": "game_stream",
+      "domains": [
+        "huya.com",
+        "www.huya.com"
+      ]
+    },
+    {
+      "name": "afreecatv",
+      "category": "game_stream",
+      "domains": [
+        "afreecatv.com",
+        "www.afreecatv.com"
+      ]
+    },
+    {
+      "name": "steam_broadcast",
+      "category": "game_stream",
+      "domains": [
+        "steam.tv",
+        "store.steampowered.com",
+        "steamcommunity.com"
+      ]
+    },
+    {
+      "name": "facebook_gaming",
+      "category": "game_stream",
+      "domains": [
+        "fb.gg",
+        "www.fb.gg",
+        "facebook.com",
+        "www.facebook.com"
+      ]
+    },
+    {
+      "name": "youtube_gaming",
+      "category": "game_stream",
+      "domains": [
+        "gaming.youtube.com",
+        "youtube.com",
+        "www.youtube.com"
+      ]
+    }
+  ],
+    "game_stream": [
+    {
+      "name": "twitch",
+      "category": "game_stream",
+      "domains": [
+        "twitch.tv",
+        "www.twitch.tv",
+        "player.twitch.tv",
+        "static-cdn.jtvnw.net"
+      ]
+    },
+    {
+      "name": "kick",
+      "category": "game_stream",
+      "domains": [
+        "kick.com",
+        "www.kick.com"
+      ]
+    },
+    {
+      "name": "trovo",
+      "category": "game_stream",
+      "domains": [
+        "trovo.live",
+        "www.trovo.live"
+      ]
+    },
+    {
+      "name": "nimo_tv",
+      "category": "game_stream",
+      "domains": [
+        "nimo.tv",
+        "www.nimo.tv"
+      ]
+    },
+    {
+      "name": "huya",
+      "category": "game_stream",
+      "domains": [
+        "huya.com",
+        "www.huya.com"
+      ]
+    },
+    {
+      "name": "afreecatv",
+      "category": "game_stream",
+      "domains": [
+        "afreecatv.com",
+        "www.afreecatv.com"
+      ]
+    },
+    {
+      "name": "steam_broadcast",
+      "category": "game_stream",
+      "domains": [
+        "steamcommunity.com",
+        "store.steampowered.com",
+        "steam.tv"
+      ]
+    },
+    {
+      "name": "facebook_gaming",
+      "category": "game_stream",
+      "domains": [
+        "fb.gg",
+        "www.fb.gg",
+        "facebook.com",
+        "www.facebook.com"
+      ]
+    },
+    {
+      "name": "youtube_gaming",
+      "category": "game_stream",
+      "domains": [
+        "gaming.youtube.com",
+        "youtube.com",
+        "www.youtube.com"
+      ]
+    }
   ]
 }
+
