@@ -1,0 +1,147 @@
+{
+  "porn": [
+    {
+      "name": "pornhub",
+      "category": "porn",
+      "domains": [
+        "pornhub.com",
+        "www.pornhub.com",
+        "phncdn.com",
+        "www.phncdn.com",
+        "pornhubpremium.com",
+        "www.pornhubpremium.com"
+      ]
+    },
+    {
+      "name": "xvideos",
+      "category": "porn",
+      "domains": [
+        "xvideos.com",
+        "www.xvideos.com",
+        "static-hw.xvideos.com"
+      ]
+    },
+    {
+      "name": "xnxx",
+      "category": "porn",
+      "domains": [
+        "xnxx.com",
+        "www.xnxx.com"
+      ]
+    },
+    {
+      "name": "xhamster",
+      "category": "porn",
+      "domains": [
+        "xhamster.com",
+        "www.xhamster.com"
+      ]
+    },
+    {
+      "name": "youporn",
+      "category": "porn",
+      "domains": [
+        "youporn.com",
+        "www.youporn.com"
+      ]
+    },
+    {
+      "name": "redtube",
+      "category": "porn",
+      "domains": [
+        "redtube.com",
+        "www.redtube.com"
+      ]
+    },
+    {
+      "name": "spankbang",
+      "category": "porn",
+      "domains": [
+        "spankbang.com",
+        "www.spankbang.com"
+      ]
+    },
+    {
+      "name": "youjizz",
+      "category": "porn",
+      "domains": [
+        "youjizz.com",
+        "www.youjizz.com"
+      ]
+    }
+  ],
+  "wallet": [
+    {
+      "name": "trustwallet",
+      "category": "wallet",
+      "domains": [
+        "trustwallet.com",
+        "assets.trustwallet.com"
+      ]
+    },
+    {
+      "name": "metamask",
+      "category": "wallet",
+      "domains": [
+        "metamask.io",
+        "portfolio.metamask.io"
+      ]
+    },
+    {
+      "name": "binance",
+      "category": "wallet",
+      "domains": [
+        "binance.com",
+        "www.binance.com"
+      ]
+    },
+    {
+      "name": "coinbase",
+      "category": "wallet",
+      "domains": [
+        "coinbase.com",
+        "www.coinbase.com"
+      ]
+    },
+    {
+      "name": "blockchain.com",
+      "category": "wallet",
+      "domains": [
+        "blockchain.com",
+        "www.blockchain.com"
+      ]
+    },
+    {
+      "name": "kraken",
+      "category": "wallet",
+      "domains": [
+        "kraken.com",
+        "www.kraken.com"
+      ]
+    },
+    {
+      "name": "bybit",
+      "category": "wallet",
+      "domains": [
+        "bybit.com",
+        "www.bybit.com"
+      ]
+    },
+    {
+      "name": "okx",
+      "category": "wallet",
+      "domains": [
+        "okx.com",
+        "www.okx.com"
+      ]
+    },
+    {
+      "name": "phantom",
+      "category": "wallet",
+      "domains": [
+        "phantom.app",
+        "www.phantom.app"
+      ]
+    }
+  ]
+}
