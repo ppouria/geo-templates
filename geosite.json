@@ -1227,6 +1227,28 @@
       ]
     },
     {
+      "name": "alibaba",
+      "category": "ecommerce",
+      "domains": [
+        "alibaba.com",
+        "alicdn.com",
+        "aliexpress.com",
+        "aliyuncs.com",
+        "taobao.com",
+        "tmall.com"
+      ]
+    },
+    {
+      "name": "amazon",
+      "category": "ecommerce",
+      "domains": [
+        "amazon.com",
+        "amazonaws.com",
+        "cloudfront.net",
+        "primevideo.com"
+      ]
+    },
+    {
       "name": "amazon_ads",
       "category": "ads",
       "domains": [
@@ -1234,18 +1256,87 @@
       ]
     },
     {
+      "name": "amazon_music",
+      "category": "music",
+      "domains": [
+        "amazonmusic.com",
+        "music.amazon.com"
+      ]
+    },
+    {
+      "name": "amuse",
+      "category": "music",
+      "domains": [
+        "amuse.io"
+      ]
+    },
+    {
       "name": "analytics",
       "category": "analytics",
       "domains": [
+        "app-analytics-services-att.com",
         "app-analytics-services.com"
+      ]
+    },
+    {
+      "name": "android",
+      "category": "ecosystem",
+      "domains": [
+        "android.com",
+        "play.google.com",
+        "play.googleapis.com"
+      ]
+    },
+    {
+      "name": "anghami",
+      "category": "music",
+      "domains": [
+        "anghami.com"
       ]
     },
     {
       "name": "apple",
       "category": "ecosystem",
       "domains": [
+        "apple.com",
+        "icloud.com",
+        "mail.me.com",
+        "mzstatic.com",
         "p29-imap.mail.me.com",
+        "safebrowsing.apple",
         "token.safebrowsing.apple"
+      ]
+    },
+    {
+      "name": "apple_music",
+      "category": "music",
+      "domains": [
+        "applemusic.com",
+        "itunes.apple.com",
+        "music.apple.com"
+      ]
+    },
+    {
+      "name": "applovin",
+      "category": "ads",
+      "domains": [
+        "applovin.com",
+        "applvn.com"
+      ]
+    },
+    {
+      "name": "appwheel",
+      "category": "analytics",
+      "domains": [
+        "appwheel.com",
+        "sdk.api.appwheel.com"
+      ]
+    },
+    {
+      "name": "awa",
+      "category": "music",
+      "domains": [
+        "awa.fm"
       ]
     },
     {
@@ -1259,11 +1350,27 @@
       ]
     },
     {
+      "name": "baidu_hi",
+      "category": "messenger",
+      "domains": [
+        "baidu.com",
+        "baidupcs.com"
+      ]
+    },
+    {
       "name": "bale",
       "category": "messenger",
       "domains": [
         "ep.bale.ai",
         "hash.bale.ai"
+      ]
+    },
+    {
+      "name": "bandcamp",
+      "category": "music",
+      "domains": [
+        "bandcamp.com",
+        "bcbits.com"
       ]
     },
     {
@@ -1274,10 +1381,46 @@
       ]
     },
     {
+      "name": "bip",
+      "category": "messenger",
+      "domains": [
+        "bip.com"
+      ]
+    },
+    {
+      "name": "boomplay",
+      "category": "music",
+      "domains": [
+        "boomplay.com"
+      ]
+    },
+    {
       "name": "boresh",
       "category": "misc",
       "domains": [
         "image.boresh.ca"
+      ]
+    },
+    {
+      "name": "botim",
+      "category": "messenger",
+      "domains": [
+        "botim.me"
+      ]
+    },
+    {
+      "name": "cafebazaar",
+      "category": "iran_service",
+      "domains": [
+        "api.cafebazaar.ir",
+        "cafebazaar.ir"
+      ]
+    },
+    {
+      "name": "cdbaby",
+      "category": "music",
+      "domains": [
+        "cdbaby.com"
       ]
     },
     {
@@ -1288,9 +1431,18 @@
       ]
     },
     {
+      "name": "claro_musica",
+      "category": "music",
+      "domains": [
+        "claromusica.com"
+      ]
+    },
+    {
       "name": "cloudflare",
       "category": "dns",
       "domains": [
+        "chrome.cloudflare-dns.com",
+        "cloudflare.com",
         "mozilla.cloudflare-dns.com",
         "one.one.one.one",
         "www.pullcf.com"
@@ -1312,10 +1464,32 @@
       ]
     },
     {
+      "name": "dalyfeds",
+      "category": "misc",
+      "domains": [
+        "dalyfeds.com"
+      ]
+    },
+    {
+      "name": "deezer",
+      "category": "music",
+      "domains": [
+        "deezer.com"
+      ]
+    },
+    {
       "name": "discord",
       "category": "messenger",
       "domains": [
+        "discord.com",
         "gateway.discord.gg"
+      ]
+    },
+    {
+      "name": "distrokid",
+      "category": "music",
+      "domains": [
+        "distrokid.com"
       ]
     },
     {
@@ -1334,6 +1508,15 @@
       ]
     },
     {
+      "name": "ebay",
+      "category": "ecommerce",
+      "domains": [
+        "ebay.com",
+        "ebayimg.com",
+        "ebaystatic.com"
+      ]
+    },
+    {
       "name": "eitaa",
       "category": "messenger",
       "domains": [
@@ -1344,6 +1527,15 @@
       ]
     },
     {
+      "name": "element",
+      "category": "messenger",
+      "domains": [
+        "element.io",
+        "matrix.org",
+        "matrix.to"
+      ]
+    },
+    {
       "name": "etermun",
       "category": "game",
       "domains": [
@@ -1351,10 +1543,50 @@
       ]
     },
     {
+      "name": "expressapis",
+      "category": "api",
+      "domains": [
+        "expressapisv2.net"
+      ]
+    },
+    {
+      "name": "facebook",
+      "category": "social",
+      "domains": [
+        "facebook.com",
+        "fb.com",
+        "fbcdn.net",
+        "fbsbx.com",
+        "m.me",
+        "messenger.com"
+      ]
+    },
+    {
+      "name": "fexori",
+      "category": "misc",
+      "domains": [
+        "fexori.com"
+      ]
+    },
+    {
       "name": "flixcdn",
       "category": "cdn",
       "domains": [
         "thumb-ah.flixcdn.com"
+      ]
+    },
+    {
+      "name": "gap",
+      "category": "iran_service",
+      "domains": [
+        "gap.im"
+      ]
+    },
+    {
+      "name": "genie",
+      "category": "music",
+      "domains": [
+        "genie.co.kr"
       ]
     },
     {
@@ -1455,15 +1687,56 @@
       ]
     },
     {
+      "name": "google",
+      "category": "tech",
+      "domains": [
+        "crashlytics.com",
+        "dns.google",
+        "ggpht.com",
+        "gmail.com",
+        "google.com",
+        "googleapis.com",
+        "googleusercontent.com",
+        "googlevideo.com",
+        "gstatic.com",
+        "gvt1.com",
+        "play.googleapis.com"
+      ]
+    },
+    {
       "name": "google_ads",
       "category": "ads",
       "domains": [
         "ad.doubleclick.net",
         "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "pagead2.googleadservices.com",
         "pagead2.googlesyndication.com",
         "pubads.g.doubleclick.net",
         "tpc.googlesyndication.com",
         "www.googletagmanager.com"
+      ]
+    },
+    {
+      "name": "google_amp",
+      "category": "web",
+      "domains": [
+        "ampproject.org",
+        "cdn.ampproject.org"
+      ]
+    },
+    {
+      "name": "google_chat",
+      "category": "collaboration",
+      "domains": [
+        "chat.google.com"
+      ]
+    },
+    {
+      "name": "guilded",
+      "category": "messenger",
+      "domains": [
+        "guilded.gg"
       ]
     },
     {
@@ -1474,10 +1747,72 @@
       ]
     },
     {
+      "name": "hike",
+      "category": "messenger",
+      "domains": [
+        "hike.in",
+        "hike.me"
+      ]
+    },
+    {
       "name": "hmomen",
       "category": "misc",
       "domains": [
         "hmomen.com"
+      ]
+    },
+    {
+      "name": "huawei",
+      "category": "ecosystem",
+      "domains": [
+        "dbankcloud.asia",
+        "dbankcloud.eu"
+      ]
+    },
+    {
+      "name": "hungama",
+      "category": "music",
+      "domains": [
+        "hungama.com"
+      ]
+    },
+    {
+      "name": "iau",
+      "category": "education",
+      "domains": [
+        "amoozeshyarplus.iau.ac.ir",
+        "iau.ac.ir"
+      ]
+    },
+    {
+      "name": "icq",
+      "category": "messenger",
+      "domains": [
+        "icq.com",
+        "icq.net"
+      ]
+    },
+    {
+      "name": "idagio",
+      "category": "music",
+      "domains": [
+        "idagio.com"
+      ]
+    },
+    {
+      "name": "igap",
+      "category": "iran_service",
+      "domains": [
+        "igap.im",
+        "igap.net"
+      ]
+    },
+    {
+      "name": "iheartradio",
+      "category": "music",
+      "domains": [
+        "iheart.com",
+        "iheartradio.com"
       ]
     },
     {
@@ -1488,12 +1823,46 @@
       ]
     },
     {
+      "name": "instagram",
+      "category": "social",
+      "domains": [
+        "cdninstagram.com",
+        "fbcdn.net",
+        "ig.me",
+        "instagram.com"
+      ]
+    },
+    {
       "name": "ip_lookup",
       "category": "tools",
       "domains": [
         "api.ip.sb",
+        "ifconfig.co",
         "ipv4.seeip.org",
         "ipwho.is"
+      ]
+    },
+    {
+      "name": "kakaotalk",
+      "category": "messenger",
+      "domains": [
+        "kakao.com",
+        "kakaocdn.net",
+        "kakaocorp.com"
+      ]
+    },
+    {
+      "name": "kugou",
+      "category": "music",
+      "domains": [
+        "kugou.com"
+      ]
+    },
+    {
+      "name": "kuwo",
+      "category": "music",
+      "domains": [
+        "kuwo.cn"
       ]
     },
     {
@@ -1504,10 +1873,33 @@
       ]
     },
     {
+      "name": "launchdarkly",
+      "category": "feature_flags",
+      "domains": [
+        "launchdarkly.com"
+      ]
+    },
+    {
       "name": "letsmessagenow",
       "category": "messenger",
       "domains": [
         "conf.letsmessagenow.com"
+      ]
+    },
+    {
+      "name": "line",
+      "category": "messenger",
+      "domains": [
+        "line-apps.com",
+        "line-scdn.net",
+        "line.me"
+      ]
+    },
+    {
+      "name": "line_music",
+      "category": "music",
+      "domains": [
+        "music.line.me"
       ]
     },
     {
@@ -1516,6 +1908,13 @@
       "domains": [
         "linkedin.com",
         "www.linkedin.com"
+      ]
+    },
+    {
+      "name": "mattermost",
+      "category": "collaboration",
+      "domains": [
+        "mattermost.com"
       ]
     },
     {
@@ -1533,6 +1932,14 @@
       ]
     },
     {
+      "name": "mediaad",
+      "category": "ads",
+      "domains": [
+        "mediaad.org",
+        "s1.mediaad.org"
+      ]
+    },
+    {
       "name": "mediaffic",
       "category": "ads",
       "domains": [
@@ -1547,17 +1954,59 @@
       ]
     },
     {
+      "name": "melon",
+      "category": "music",
+      "domains": [
+        "melon.co.kr",
+        "melon.com"
+      ]
+    },
+    {
+      "name": "messenger",
+      "category": "messenger",
+      "domains": [
+        "m.me",
+        "messenger.com"
+      ]
+    },
+    {
       "name": "microsoft",
       "category": "developer",
       "domains": [
         "assets.msn.com",
+        "azureedge.net",
+        "bing.com",
         "img-s-msn-com.akamaized.net",
+        "live.com",
         "main.vscode-cdn.net",
+        "microsoft.com",
+        "microsoftonline.com",
+        "msn.com",
+        "office.com",
+        "office.net",
+        "teams.microsoft.com",
         "th.bing.com",
         "trafficmanager.net",
         "vscode-sync.trafficmanager.net",
+        "vscode.dev",
         "windows.msn.com",
+        "windows.net",
         "www.msn.com"
+      ]
+    },
+    {
+      "name": "miraclevision",
+      "category": "media",
+      "domains": [
+        "gondar.miraclevision.sg",
+        "miraclevision.sg"
+      ]
+    },
+    {
+      "name": "mixcloud",
+      "category": "music",
+      "domains": [
+        "mixcloud.com"
       ]
     },
     {
@@ -1568,10 +2017,49 @@
       ]
     },
     {
+      "name": "mock_api",
+      "category": "developer",
+      "domains": [
+        "dummyapi.online",
+        "fakestoreapi.com",
+        "jsonplaceholder.typicode.com",
+        "typicode.com"
+      ]
+    },
+    {
       "name": "mozilla",
       "category": "browser",
       "domains": [
         "push.services.mozilla.com"
+      ]
+    },
+    {
+      "name": "mumble",
+      "category": "messenger",
+      "domains": [
+        "mumble.info"
+      ]
+    },
+    {
+      "name": "musics_fa",
+      "category": "music",
+      "domains": [
+        "musics-fa.com"
+      ]
+    },
+    {
+      "name": "napster",
+      "category": "music",
+      "domains": [
+        "napster.com"
+      ]
+    },
+    {
+      "name": "naver_talk",
+      "category": "messenger",
+      "domains": [
+        "naver.com",
+        "talk.naver.com"
       ]
     },
     {
@@ -1582,6 +2070,24 @@
         "od-api.neshanmap.ir",
         "tvts1.neshanmap.ir",
         "vts1.neshanmap.ir"
+      ]
+    },
+    {
+      "name": "netease",
+      "category": "music",
+      "domains": [
+        "163.com",
+        "music.163.com"
+      ]
+    },
+    {
+      "name": "netflix",
+      "category": "video",
+      "domains": [
+        "netflix.com",
+        "nflximg.net",
+        "nflxso.net",
+        "nflxvideo.net"
       ]
     },
     {
@@ -1603,6 +2109,7 @@
         "chatgpt.com",
         "help-center-cdn.oaistatic.com",
         "help.openai.com",
+        "oaistatic.com",
         "openai.com"
       ]
     },
@@ -1617,10 +2124,46 @@
       ]
     },
     {
+      "name": "optime_ai",
+      "category": "ai",
+      "domains": [
+        "optime-ai.com"
+      ]
+    },
+    {
       "name": "orbsrv",
       "category": "ads",
       "domains": [
         "s.orbsrv.com"
+      ]
+    },
+    {
+      "name": "pandora",
+      "category": "music",
+      "domains": [
+        "pandora.com"
+      ]
+    },
+    {
+      "name": "paypal",
+      "category": "payments",
+      "domains": [
+        "braintreepayments.com",
+        "paypal.com",
+        "paypalobjects.com",
+        "venmo.com"
+      ]
+    },
+    {
+      "name": "pixocial",
+      "category": "ai_photo",
+      "domains": [
+        "ads-bridge.pixocial.com",
+        "api.mr.pixocial.com",
+        "bp-backend.pixocial.com",
+        "object.pixocial.com",
+        "pixocial.com",
+        "seawave-sts.pixocial.com"
       ]
     },
     {
@@ -1646,6 +2189,23 @@
       ]
     },
     {
+      "name": "qobuz",
+      "category": "music",
+      "domains": [
+        "qobuz.com"
+      ]
+    },
+    {
+      "name": "qq",
+      "category": "messenger",
+      "domains": [
+        "gtimg.com",
+        "qpic.cn",
+        "qq.com",
+        "y.qq.com"
+      ]
+    },
+    {
       "name": "quad9",
       "category": "dns",
       "domains": [
@@ -1653,10 +2213,35 @@
       ]
     },
     {
+      "name": "reverbnation",
+      "category": "music",
+      "domains": [
+        "reverbnation.com"
+      ]
+    },
+    {
+      "name": "rocket_chat",
+      "category": "collaboration",
+      "domains": [
+        "rocket.chat"
+      ]
+    },
+    {
+      "name": "rubika",
+      "category": "iran_service",
+      "domains": [
+        "rubika.com",
+        "rubika.ir"
+      ]
+    },
+    {
       "name": "samsung",
       "category": "ecosystem",
       "domains": [
         "eu-auth2.samsungosp.com",
+        "samsung.com",
+        "samsungcloudcdn.com",
+        "samsungiotcloud.com",
         "vas.samsungapps.com"
       ]
     },
@@ -1675,10 +2260,71 @@
       ]
     },
     {
+      "name": "shazam",
+      "category": "music",
+      "domains": [
+        "shazam.com"
+      ]
+    },
+    {
+      "name": "signal",
+      "category": "messenger",
+      "domains": [
+        "signal.me",
+        "signal.org",
+        "signalusercontent.com",
+        "whispersystems.org"
+      ]
+    },
+    {
+      "name": "siriusxm",
+      "category": "music",
+      "domains": [
+        "siriusxm.com"
+      ]
+    },
+    {
+      "name": "skype",
+      "category": "messenger",
+      "domains": [
+        "skype.com",
+        "skypeassets.com"
+      ]
+    },
+    {
+      "name": "slack",
+      "category": "collaboration",
+      "domains": [
+        "slack-edge.com",
+        "slack-files.com",
+        "slack-msgs.com",
+        "slack.com",
+        "wss-backup.slack.com",
+        "wss-mobile.slack.com",
+        "wss-primary.slack.com"
+      ]
+    },
+    {
+      "name": "snapchat",
+      "category": "social",
+      "domains": [
+        "sc-cdn.net",
+        "snapchat.com"
+      ]
+    },
+    {
       "name": "snappfood",
       "category": "iran_service",
       "domains": [
         "snappfood.ir"
+      ]
+    },
+    {
+      "name": "soroush",
+      "category": "iran_service",
+      "domains": [
+        "soroush.app",
+        "soroushplus.com"
       ]
     },
     {
@@ -1711,6 +2357,24 @@
       ]
     },
     {
+      "name": "spotify",
+      "category": "music",
+      "domains": [
+        "scdn.co",
+        "spotify.com",
+        "spotifycdn.com"
+      ]
+    },
+    {
+      "name": "starii_rover",
+      "category": "ads",
+      "domains": [
+        "datafinder-beacon.starii-rover.com",
+        "lingwen-config.starii-rover.com",
+        "starii-rover.com"
+      ]
+    },
+    {
       "name": "steam",
       "category": "game",
       "domains": [
@@ -1737,6 +2401,14 @@
       ]
     },
     {
+      "name": "steam_chat",
+      "category": "messenger",
+      "domains": [
+        "steam-chat.com",
+        "steamcommunity.com"
+      ]
+    },
+    {
       "name": "taboola",
       "category": "ads",
       "domains": [
@@ -1752,6 +2424,14 @@
       ]
     },
     {
+      "name": "taz_min",
+      "category": "misc",
+      "domains": [
+        "dlll.taz-min.com",
+        "taz-min.com"
+      ]
+    },
+    {
       "name": "tcendpoint",
       "category": "infra",
       "domains": [
@@ -1759,10 +2439,90 @@
       ]
     },
     {
+      "name": "teamspeak",
+      "category": "messenger",
+      "domains": [
+        "teamspeak.com"
+      ]
+    },
+    {
+      "name": "telegram",
+      "category": "messenger",
+      "domains": [
+        "cdn.telegram.org",
+        "t.me",
+        "tdesktop.com",
+        "telegram-cdn.org",
+        "telegram.me",
+        "telegram.org"
+      ]
+    },
+    {
+      "name": "tencent_music",
+      "category": "music",
+      "domains": [
+        "music.tencent.com",
+        "qqmusic.qq.com",
+        "y.qq.com"
+      ]
+    },
+    {
+      "name": "threema",
+      "category": "messenger",
+      "domains": [
+        "threema.ch"
+      ]
+    },
+    {
+      "name": "tidal",
+      "category": "music",
+      "domains": [
+        "tidal.com"
+      ]
+    },
+    {
       "name": "tiktok",
       "category": "social",
       "domains": [
-        "p16-ttam-va.ibyteimg.com"
+        "bytefcdn-oversea.com",
+        "bytefcdn-ttpeu.com",
+        "byteimg.com",
+        "byteoversea.com",
+        "ibyteimg.com",
+        "musical.ly",
+        "p16-ttam-va.ibyteimg.com",
+        "pangle.com",
+        "pangle.io",
+        "tiktok.com",
+        "tiktokcdn.com",
+        "tiktokv.com"
+      ]
+    },
+    {
+      "name": "toobit",
+      "category": "exchange",
+      "domains": [
+        "support.toobit.com",
+        "toobit.com"
+      ]
+    },
+    {
+      "name": "transsion",
+      "category": "device",
+      "domains": [
+        "ire-dsc.shalltry.com",
+        "ire-dsu.shalltry.com",
+        "ire-oneid.shalltry.com",
+        "shalltry.com",
+        "theme.transsion-os.com",
+        "transsion-os.com"
+      ]
+    },
+    {
+      "name": "truecaller",
+      "category": "communication",
+      "domains": [
+        "truecaller.com"
       ]
     },
     {
@@ -1773,10 +2533,86 @@
       ]
     },
     {
+      "name": "tuanguwen",
+      "category": "content",
+      "domains": [
+        "cooking-prod.tuanguwen.com",
+        "tuanguwen.com"
+      ]
+    },
+    {
+      "name": "tunecore",
+      "category": "music",
+      "domains": [
+        "tunecore.com"
+      ]
+    },
+    {
+      "name": "tunein",
+      "category": "music",
+      "domains": [
+        "tunein.com"
+      ]
+    },
+    {
+      "name": "twitch",
+      "category": "stream",
+      "domains": [
+        "jtvnw.net",
+        "ttvnw.net",
+        "twitch.tv",
+        "twitchcdn.net"
+      ]
+    },
+    {
+      "name": "twitter",
+      "category": "social",
+      "domains": [
+        "pbs.twimg.com",
+        "t.co",
+        "twimg.com",
+        "twitter.com",
+        "video.twimg.com",
+        "x.com"
+      ]
+    },
+    {
+      "name": "unitedmasters",
+      "category": "music",
+      "domains": [
+        "unitedmasters.com"
+      ]
+    },
+    {
+      "name": "unity",
+      "category": "gaming_sdk",
+      "domains": [
+        "cdp.cloud.unity3d.com",
+        "unity3d.com"
+      ]
+    },
+    {
       "name": "uuidksinc",
       "category": "ads",
       "domains": [
         "s.uuidksinc.net"
+      ]
+    },
+    {
+      "name": "viber",
+      "category": "messenger",
+      "domains": [
+        "viber.com",
+        "vibercdn.com"
+      ]
+    },
+    {
+      "name": "vk_messenger",
+      "category": "messenger",
+      "domains": [
+        "userapi.com",
+        "vk.com",
+        "vk.me"
       ]
     },
     {
@@ -1785,6 +2621,54 @@
       "domains": [
         "events.ads.vungle.com",
         "logs.ads.vungle.com"
+      ]
+    },
+    {
+      "name": "wechat",
+      "category": "messenger",
+      "domains": [
+        "dns.wechat.com",
+        "wechat.com"
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "category": "messenger",
+      "domains": [
+        "cdn.whatsapp.net",
+        "whatsapp.com",
+        "whatsapp.net"
+      ]
+    },
+    {
+      "name": "wire",
+      "category": "messenger",
+      "domains": [
+        "wire.com"
+      ]
+    },
+    {
+      "name": "workplace_chat",
+      "category": "collaboration",
+      "domains": [
+        "workplace.com",
+        "workplacechat.com"
+      ]
+    },
+    {
+      "name": "x",
+      "category": "social",
+      "domains": [
+        "t.co",
+        "twimg.com",
+        "x.com"
+      ]
+    },
+    {
+      "name": "xiaohongshu",
+      "category": "social",
+      "domains": [
+        "xiaohongshu.com"
       ]
     },
     {
@@ -1817,6 +2701,14 @@
       ]
     },
     {
+      "name": "yandex_music",
+      "category": "music",
+      "domains": [
+        "music.yandex.com",
+        "music.yandex.ru"
+      ]
+    },
+    {
       "name": "yektanet",
       "category": "ads",
       "domains": [
@@ -1824,10 +2716,57 @@
       ]
     },
     {
+      "name": "youtube",
+      "category": "video",
+      "domains": [
+        "ggpht.com",
+        "googlevideo.com",
+        "gvt1.com",
+        "youtu.be",
+        "youtube-nocookie.com",
+        "youtube.com",
+        "ytimg.com"
+      ]
+    },
+    {
+      "name": "youtube_music",
+      "category": "music",
+      "domains": [
+        "music.youtube.com",
+        "youtube-music.com"
+      ]
+    },
+    {
+      "name": "zalo",
+      "category": "messenger",
+      "domains": [
+        "zalo.me",
+        "zaloapp.com"
+      ]
+    },
+    {
+      "name": "zing_mp3",
+      "category": "music",
+      "domains": [
+        "zingmp3.vn"
+      ]
+    },
+    {
       "name": "zobj",
       "category": "cdn",
       "domains": [
         "em-content.zobj.net"
+      ]
+    },
+    {
+      "name": "zoom",
+      "category": "collaboration",
+      "domains": [
+        "status.zoom.us",
+        "zoom.com",
+        "zoom.us",
+        "zoomcdn.com",
+        "zoomgov.com"
       ]
     },
     {
