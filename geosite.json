@@ -259,15 +259,19 @@
       "name": "xvideos",
       "category": "porn",
       "domains": [
-        "xvideos.com",
-        "www.xvideos.com",
-        "static-hw.xvideos.com",
-        "img-l3.xvideos-cdn.com",
-        "static-egc.xvideos-cdn.com",
-        "xvideos-cdn.com",
+        "av.jzkx.xyz",
         "cdn.xvideos.com",
+        "hls-cdn77.xvideos-cdn.com",
+        "img-l3.xvideos-cdn.com",
+        "profile-cdn77.xvideos-cdn.com",
+        "static-egc.xvideos-cdn.com",
+        "static-hw.xvideos.com",
+        "static-ss.xvideos-cdn.com",
+        "thumbs-gcore.xvideos-cdn.com",
         "u5nd.porncnx.xyz",
-        "av.jzkx.xyz"
+        "www.xvideos.com",
+        "xvideos-cdn.com",
+        "xvideos.com"
       ]
     },
     {
@@ -1445,7 +1449,9 @@
         "cloudflare.com",
         "mozilla.cloudflare-dns.com",
         "one.one.one.one",
-        "www.pullcf.com"
+        "pullcm.com",
+        "www.pullcf.com",
+        "www.pullcm.com"
       ]
     },
     {
@@ -1558,7 +1564,9 @@
         "fbcdn.net",
         "fbsbx.com",
         "m.me",
-        "messenger.com"
+        "messenger.com",
+        "mqtt-gw.pushnotifs.com",
+        "pushnotifs.com"
       ]
     },
     {
@@ -1708,13 +1716,16 @@
       "category": "ads",
       "domains": [
         "ad.doubleclick.net",
+        "ade.googlesyndication.com",
         "googleads.g.doubleclick.net",
         "googleadservices.com",
+        "googletagservices.com",
         "pagead2.googleadservices.com",
         "pagead2.googlesyndication.com",
         "pubads.g.doubleclick.net",
         "tpc.googlesyndication.com",
-        "www.googletagmanager.com"
+        "www.googletagmanager.com",
+        "www.googletagservices.com"
       ]
     },
     {
@@ -1744,6 +1755,17 @@
       "category": "misc",
       "domains": [
         "hansha.online"
+      ]
+    },
+    {
+      "name": "highwebmedia",
+      "category": "adult_stream",
+      "domains": [
+        "edge10-rtm.live.mmcdn.com",
+        "highwebmedia.com",
+        "mmcdn.com",
+        "nwr.mmcdn.com",
+        "realtime.pa.highwebmedia.com"
       ]
     },
     {
@@ -1804,7 +1826,8 @@
       "category": "iran_service",
       "domains": [
         "igap.im",
-        "igap.net"
+        "igap.net",
+        "sent.igap.net"
       ]
     },
     {
@@ -1976,6 +1999,7 @@
         "assets.msn.com",
         "azureedge.net",
         "bing.com",
+        "clarity.ms",
         "img-s-msn-com.akamaized.net",
         "live.com",
         "main.vscode-cdn.net",
@@ -1991,7 +2015,8 @@
         "vscode.dev",
         "windows.msn.com",
         "windows.net",
-        "www.msn.com"
+        "www.msn.com",
+        "z.clarity.ms"
       ]
     },
     {
@@ -2127,6 +2152,7 @@
       "name": "optime_ai",
       "category": "ai",
       "domains": [
+        "api2.optime-ai.com",
         "optime-ai.com"
       ]
     },
@@ -2177,6 +2203,8 @@
       "name": "porn",
       "category": "porn",
       "domains": [
+        "afcdn.net",
+        "s3t3d2y1.afcdn.net",
         "static-ss.xnxx-cdn.com",
         "thumb-v3.xhcdn.com"
       ]
@@ -2213,6 +2241,13 @@
       ]
     },
     {
+      "name": "raw_unresolved",
+      "category": "misc",
+      "domains": [
+        "farzadghahari1361"
+      ]
+    },
+    {
       "name": "reverbnation",
       "category": "music",
       "domains": [
@@ -2239,6 +2274,7 @@
       "category": "ecosystem",
       "domains": [
         "eu-auth2.samsungosp.com",
+        "findnms.samsungiotcloud.com",
         "samsung.com",
         "samsungcloudcdn.com",
         "samsungiotcloud.com",
@@ -2257,6 +2293,14 @@
       "category": "iran_service",
       "domains": [
         "shaparak.ir"
+      ]
+    },
+    {
+      "name": "shareit",
+      "category": "app",
+      "domains": [
+        "alphashareit.works",
+        "jujube.alphashareit.works"
       ]
     },
     {
@@ -2353,6 +2397,7 @@
       "name": "splus",
       "category": "messenger",
       "domains": [
+        "sy.splus.ir",
         "web.splus.ir"
       ]
     },
@@ -2398,14 +2443,6 @@
         "steamserver.net",
         "steamstatic.com",
         "steamusercontent.com"
-      ]
-    },
-    {
-      "name": "steam_chat",
-      "category": "messenger",
-      "domains": [
-        "steam-chat.com",
-        "steamcommunity.com"
       ]
     },
     {
@@ -2774,6 +2811,179 @@
       "category": "misc",
       "domains": [
         "cfgc.zztfly.com"
+      ]
+    }
+  ],
+  "wikis": [
+    {
+      "name": "baidu_baike",
+      "category": "wikis",
+      "domains": [
+        "baike.baidu.com"
+      ]
+    },
+    {
+      "name": "britannica",
+      "category": "wikis",
+      "domains": [
+        "britannica.com",
+        "www.britannica.com"
+      ]
+    },
+    {
+      "name": "britannica_online",
+      "category": "wikis",
+      "domains": [
+        "online.britannica.com"
+      ]
+    },
+    {
+      "name": "citizendium",
+      "category": "wikis",
+      "domains": [
+        "citizendium.org"
+      ]
+    },
+    {
+      "name": "everipedia",
+      "category": "wikis",
+      "domains": [
+        "everipedia.org",
+        "iq.wiki"
+      ]
+    },
+    {
+      "name": "infoplease",
+      "category": "wikis",
+      "domains": [
+        "infoplease.com",
+        "www.infoplease.com"
+      ]
+    },
+    {
+      "name": "scholarpedia",
+      "category": "wikis",
+      "domains": [
+        "scholarpedia.org"
+      ]
+    },
+    {
+      "name": "wikibooks",
+      "category": "wikis",
+      "domains": [
+        "wikibooks.org"
+      ]
+    },
+    {
+      "name": "wikida",
+      "category": "wikis",
+      "domains": [
+        "fa.wikida.ir",
+        "wikida.ir"
+      ]
+    },
+    {
+      "name": "wikifeqh",
+      "category": "wikis",
+      "domains": [
+        "fa.wikifeqh.ir",
+        "wikifeqh.ir",
+        "www.wikifeqh.ir"
+      ]
+    },
+    {
+      "name": "wikimedia",
+      "category": "wikis",
+      "domains": [
+        "wikidata.org",
+        "wikimedia.org",
+        "wikimediafoundation.org"
+      ]
+    },
+    {
+      "name": "wikinews",
+      "category": "wikis",
+      "domains": [
+        "wikinews.org"
+      ]
+    },
+    {
+      "name": "wikinoor",
+      "category": "wikis",
+      "domains": [
+        "fa.wikinoor.ir",
+        "wikinoor.com",
+        "wikinoor.ir",
+        "www.wikinoor.com",
+        "www.wikinoor.ir"
+      ]
+    },
+    {
+      "name": "wikipedia",
+      "category": "wikis",
+      "domains": [
+        "en.wikipedia.org",
+        "m.wikipedia.org",
+        "wikipedia.org",
+        "www.wikipedia.org"
+      ]
+    },
+    {
+      "name": "wikiquote",
+      "category": "wikis",
+      "domains": [
+        "wikiquote.org"
+      ]
+    },
+    {
+      "name": "wikisa",
+      "category": "wikis",
+      "domains": [
+        "wikijoo.ir",
+        "www.wikijoo.ir"
+      ]
+    },
+    {
+      "name": "wikisource",
+      "category": "wikis",
+      "domains": [
+        "wikisource.org"
+      ]
+    },
+    {
+      "name": "wikispecies",
+      "category": "wikis",
+      "domains": [
+        "wikispecies.org"
+      ]
+    },
+    {
+      "name": "wikiversity",
+      "category": "wikis",
+      "domains": [
+        "wikiversity.org"
+      ]
+    },
+    {
+      "name": "wikivoyage",
+      "category": "wikis",
+      "domains": [
+        "wikivoyage.org"
+      ]
+    },
+    {
+      "name": "wikizendegi",
+      "category": "wikis",
+      "domains": [
+        "wikizendegi.com",
+        "www.wikizendegi.com"
+      ]
+    },
+    {
+      "name": "wiktionary",
+      "category": "wikis",
+      "domains": [
+        "wiktionary.org"
       ]
     }
   ]
