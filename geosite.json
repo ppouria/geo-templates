@@ -1303,12 +1303,14 @@
       "category": "ecosystem",
       "domains": [
         "apple.com",
+        "icloud-content.com",
         "icloud.com",
         "mail.me.com",
         "mzstatic.com",
         "p29-imap.mail.me.com",
         "safebrowsing.apple",
-        "token.safebrowsing.apple"
+        "token.safebrowsing.apple",
+        "uslax2.icloud-content.com"
       ]
     },
     {
@@ -1413,6 +1415,14 @@
       ]
     },
     {
+      "name": "branch",
+      "category": "analytics",
+      "domains": [
+        "branch.io",
+        "cdn.branch.io"
+      ]
+    },
+    {
       "name": "cafebazaar",
       "category": "iran_service",
       "domains": [
@@ -1446,6 +1456,7 @@
       "category": "dns",
       "domains": [
         "chrome.cloudflare-dns.com",
+        "cloudflare-dns.com",
         "cloudflare.com",
         "mozilla.cloudflare-dns.com",
         "one.one.one.one",
@@ -1856,6 +1867,13 @@
       ]
     },
     {
+      "name": "intel",
+      "category": "tech",
+      "domains": [
+        "dsadata.intel.com"
+      ]
+    },
+    {
       "name": "ip_lookup",
       "category": "tools",
       "domains": [
@@ -1863,6 +1881,14 @@
         "ifconfig.co",
         "ipv4.seeip.org",
         "ipwho.is"
+      ]
+    },
+    {
+      "name": "iranlms",
+      "category": "education",
+      "domains": [
+        "iranlms.ir",
+        "nsocket15.iranlms.ir"
       ]
     },
     {
@@ -2217,6 +2243,14 @@
       ]
     },
     {
+      "name": "pubgm",
+      "category": "game",
+      "domains": [
+        "api.club.gpubgm.com",
+        "gpubgm.com"
+      ]
+    },
+    {
       "name": "qobuz",
       "category": "music",
       "domains": [
@@ -2248,10 +2282,25 @@
       ]
     },
     {
+      "name": "remini",
+      "category": "ai_photo",
+      "domains": [
+        "a.ios.api.remini.ai",
+        "remini.ai"
+      ]
+    },
+    {
       "name": "reverbnation",
       "category": "music",
       "domains": [
         "reverbnation.com"
+      ]
+    },
+    {
+      "name": "robofollow",
+      "category": "iran_service",
+      "domains": [
+        "robofollow.ir"
       ]
     },
     {
@@ -2273,12 +2322,16 @@
       "name": "samsung",
       "category": "ecosystem",
       "domains": [
+        "diagmon-serviceapi.samsungdm.com",
         "eu-auth2.samsungosp.com",
         "findnms.samsungiotcloud.com",
         "samsung.com",
+        "samsungcloud.com",
         "samsungcloudcdn.com",
+        "samsungdm.com",
         "samsungiotcloud.com",
-        "vas.samsungapps.com"
+        "vas.samsungapps.com",
+        "wu2z-api.samsungcloud.com"
       ]
     },
     {
@@ -2625,6 +2678,7 @@
       "category": "gaming_sdk",
       "domains": [
         "cdp.cloud.unity3d.com",
+        "gateway.unityads.unity3d.com",
         "unity3d.com"
       ]
     },
